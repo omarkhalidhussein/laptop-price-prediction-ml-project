@@ -16,6 +16,12 @@ Built with Python, trained using a Kaggle dataset, and deployed using Streamlit 
 
 ---
 
+## 🖼️ Demo
+
+[▶️ Download Demo Video](Demo.mp4)
+
+---
+
 ## 🔗 Dataset
 
 - Source: [Kaggle - Laptop Price Prediction](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction)
@@ -30,12 +36,6 @@ Built with Python, trained using a Kaggle dataset, and deployed using Streamlit 
 - Scikit-learn – ML modeling and evaluation
 - Joblib – model saving & deployment
 - Streamlit – GUI for user interaction
-
----
-
-## 🖼️ Demo
-
-[▶️ Watch Demo Video](Demo.mp4)
 
 ---
 
